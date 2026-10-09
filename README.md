@@ -57,6 +57,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | One-Step TD Value Update | Perform one temporal-difference value update from reward, discount, next-state value, and learning rate. | https://www.tensortonic.com/problems/td-value-update |
 | Implement Triplet Loss | Compute triplet loss from anchor, positive, and negative embeddings using distances and a margin. | https://www.tensortonic.com/problems/triplet-loss |
 | Weighted Moving Average | Compute a weighted moving average over complete time-series windows using normalized supplied weights. | https://www.tensortonic.com/problems/weighted-moving-average |
+| Winsorization | Winsorize numeric data by clipping values below and above the requested percentile thresholds. | https://www.tensortonic.com/problems/winsorization |
 
 View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/arun9696)
 <!-- tensortonic:end -->
