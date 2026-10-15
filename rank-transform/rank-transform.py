@@ -8,11 +8,9 @@ def rank_transform(values: list[float]) -> list[float]:
     ranks = [0.0] * len(values)
     current_pos = 1  
     
-
     for val in sorted(val_to_indices.keys()):
         indices = val_to_indices[val]
         count = len(indices)
-
         avg_rank = (2 * current_pos + count - 1) / 2.0
         
         for idx in indices:
