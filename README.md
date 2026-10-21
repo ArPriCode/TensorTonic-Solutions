@@ -34,6 +34,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Implement Cross-Entropy Loss | Compute multiclass cross-entropy loss from class probabilities and integer labels with stable logarithms. | https://www.tensortonic.com/problems/cross-entropy-loss |
 | Leaky ReLU | Implement Leaky ReLU activation in CUDA with one thread per element, bounds checks, and a configurable negative slope. | https://www.tensortonic.com/problems/cuda-leaky-relu |
 | Cumulative Returns | Convert a sequence of periodic returns into cumulative compounded returns at every time-series position. | https://www.tensortonic.com/problems/cumulative-returns |
+| Implement Dice Loss | Compute Dice loss for segmentation predictions using overlap, total mass, and a numerical smoothing term. | https://www.tensortonic.com/problems/dice-loss |
 | Discounted Returns | Compute discounted reinforcement-learning returns backward through a reward sequence using a discount factor. | https://www.tensortonic.com/problems/discount-returns |
 | Double Exponential Smoothing | Apply Holt double exponential smoothing to a time series by updating level and trend components. | https://www.tensortonic.com/problems/double-exponential-smoothing |
 | Implement Dropout (Training Mode) | Implement training-mode dropout in NumPy with random masking and inverted scaling of retained activations. | https://www.tensortonic.com/problems/dropout-training |
