@@ -95,6 +95,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Implement Softmax Function | Implement numerically stable softmax by shifting logits before exponentiation and normalizing probabilities. | https://www.tensortonic.com/problems/softmax-function |
 | One-Step TD Value Update | Perform one temporal-difference value update from reward, discount, next-state value, and learning rate. | https://www.tensortonic.com/problems/td-value-update |
 | Pick a Threshold Under a Precision Constraint | Pick the decision threshold with the highest recall whose precision meets a required floor, or report that none does. | https://www.tensortonic.com/problems/threshold-under-precision-constraint |
+| Time-Based Split with a Gap | Split rows into training and validation sets along time, with a gap after the cutoff so labels cannot leak across it. | https://www.tensortonic.com/problems/time-based-split-with-gap |
 | Implement Triplet Loss | Compute triplet loss from anchor, positive, and negative embeddings using distances and a margin. | https://www.tensortonic.com/problems/triplet-loss |
 | Vector Addition | Implement bounds-checked pointwise vector addition in CUDA with one thread per output element. | https://www.tensortonic.com/problems/vector-addition |
 | Warmup + Linear Decay LR Schedule | Compute a learning-rate schedule with linear warmup followed by linear decay across training steps. | https://www.tensortonic.com/problems/warmup-decay-lr |
