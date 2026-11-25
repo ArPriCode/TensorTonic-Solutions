@@ -52,6 +52,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | ETL Dependency Orchestration | Resolve ETL job dependencies into a valid execution order while detecting missing or cyclic dependencies. | https://www.tensortonic.com/problems/etl-dependency-orchestration |
 | ETL Schema Validation | Validate ETL records against required field names and data types, reporting rows that violate the schema. | https://www.tensortonic.com/problems/etl-schema-validation |
 | Exponential Moving Average | Calculate an exponential moving average across a time series using the configured smoothing factor. | https://www.tensortonic.com/problems/exponential-moving-average |
+| Implement Focal Loss | Compute mean binary focal loss from predicted probabilities using a configurable focusing parameter. | https://www.tensortonic.com/problems/focal-loss |
 | Frequency Encoding | Replace categorical values with their observed frequencies while preserving the original sequence order. | https://www.tensortonic.com/problems/frequency-encoding |
 | Generalized Advantage Estimation | Compute generalized advantage estimates backward through rewards, values, discounting, and trace decay. | https://www.tensortonic.com/problems/gae-computation |
 | Gaussian Blur Kernel | Generate a normalized 2D Gaussian blur kernel from an odd kernel size and positive standard deviation. | https://www.tensortonic.com/problems/gaussian-blur-kernel |
